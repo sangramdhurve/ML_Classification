@@ -1,0 +1,7 @@
+how to build docker image
+1. sudo docker build .
+2. check images using sudo docker images
+3. you can remove images by using - sudo docker rmi --force <image_id>
+4. run image - sudo docker run -it -p 5000:5000 --name lead_scoring_api <image id>
+
+change -it to -d to run in background

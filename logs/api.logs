@@ -1,0 +1,93 @@
+2022-11-19 12:54:45.511 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:45.511 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:45.511 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_samples_seen_ to 4417 for min max scaler
+2022-11-19 12:54:45.511 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_max_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:45.511 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:45.512 INFO Rotating Log LogisticRegressionModel.py:73 set attribute _data_range_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:45.512 INFO Rotating Log LogisticRegressionModel.py:73 set attribute feature_names_in_ to ['total_visits', 'total_time_spent_on_website', 'page_views_per_visit'] for min max scaler
+2022-11-19 12:54:45.512 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_features_in_ to 3 for min max scaler
+2022-11-19 12:54:45.512 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:45.512 INFO Rotating Log LogisticRegressionModel.py:73 set attribute min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_samples_seen_ to 4417 for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_max_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_samples_seen_ to 4417 for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute _data_range_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_max_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute feature_names_in_ to ['total_visits', 'total_time_spent_on_website', 'page_views_per_visit'] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_features_in_ to 3 for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute _data_range_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute feature_names_in_ to ['total_visits', 'total_time_spent_on_website', 'page_views_per_visit'] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_features_in_ to 3 for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.238 INFO Rotating Log LogisticRegressionModel.py:73 set attribute min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scaler_scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_samples_seen_ to 4417 for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_samples_seen_ to 4417 for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_samples_seen_ to 4417 for min max scaler
+2022-11-19 12:54:46.255 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_samples_seen_ to 4417 for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_max_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_max_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_max_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_max_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute data_min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute _data_range_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute _data_range_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute _data_range_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute _data_range_ to [141.0, 55.0, 2272.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute feature_names_in_ to ['total_visits', 'total_time_spent_on_website', 'page_views_per_visit'] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute feature_names_in_ to ['total_visits', 'total_time_spent_on_website', 'page_views_per_visit'] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute feature_names_in_ to ['total_visits', 'total_time_spent_on_website', 'page_views_per_visit'] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute feature_names_in_ to ['total_visits', 'total_time_spent_on_website', 'page_views_per_visit'] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_features_in_ to 3 for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_features_in_ to 3 for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_features_in_ to 3 for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute n_features_in_ to 3 for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute scale_ to [0.0070922, 0.01818182, 0.00044014] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:54:46.256 INFO Rotating Log LogisticRegressionModel.py:73 set attribute min_ to [0.0, 0.0, 0.0] for min max scaler
+2022-11-19 12:55:17.529 INFO Rotating Log api.py:28 got request to score data
+2022-11-19 12:55:17.529 INFO Rotating Log api.py:28 got request to score data
+2022-11-19 12:55:17.529 INFO Rotating Log api.py:33 data to score is : {'total_visits': 5, 'total_time_spent_on_website': 0, 'page_views_per_visit': 4, 'lead_source': 'google', 'last_activity': 'Email Received', 'specialization': 'Media and Advertising', 'search': 'No', 'newspaper': 'No', 'last_notable_activity': 'Unreachable'}
+2022-11-19 12:55:17.529 INFO Rotating Log api.py:33 data to score is : {'total_visits': 5, 'total_time_spent_on_website': 0, 'page_views_per_visit': 4, 'lead_source': 'google', 'last_activity': 'Email Received', 'specialization': 'Media and Advertising', 'search': 'No', 'newspaper': 'No', 'last_notable_activity': 'Unreachable'}
+2022-11-19 12:55:17.531 INFO Rotating Log LogisticRegressionModel.py:94 google is present for column lead_source
+2022-11-19 12:55:17.531 INFO Rotating Log LogisticRegressionModel.py:94 google is present for column lead_source
+2022-11-19 12:55:17.531 INFO Rotating Log LogisticRegressionModel.py:94 Email Received is present for column last_activity
+2022-11-19 12:55:17.531 INFO Rotating Log LogisticRegressionModel.py:94 Email Received is present for column last_activity
+2022-11-19 12:55:17.532 INFO Rotating Log LogisticRegressionModel.py:94 Media and Advertising is present for column specialization
+2022-11-19 12:55:17.532 INFO Rotating Log LogisticRegressionModel.py:94 Media and Advertising is present for column specialization
+2022-11-19 12:55:17.532 INFO Rotating Log LogisticRegressionModel.py:94 No is present for column newspaper
+2022-11-19 12:55:17.532 INFO Rotating Log LogisticRegressionModel.py:94 No is present for column newspaper
+2022-11-19 12:55:17.532 INFO Rotating Log LogisticRegressionModel.py:94 Unreachable is present for column last_notable_activity
+2022-11-19 12:55:17.532 INFO Rotating Log LogisticRegressionModel.py:94 Unreachable is present for column last_notable_activity
+2022-11-19 12:55:17.533 INFO Rotating Log api.py:36 got scores: [0.5177292957609819, 0.4822707042390181]
+2022-11-19 12:55:17.533 INFO Rotating Log api.py:36 got scores: [0.5177292957609819, 0.4822707042390181]
+2022-11-19 12:55:17.533 INFO Rotating Log api.py:46 took 0.004483222961425781 secs for lead scoring
+2022-11-19 12:55:17.533 INFO Rotating Log api.py:46 took 0.004483222961425781 secs for lead scoring
+2022-11-19 12:55:17.533 INFO Rotating Log api.py:47 ****************************************************************************************************
+2022-11-19 12:55:17.533 INFO Rotating Log api.py:47 ****************************************************************************************************
+2022-11-19 12:55:17.533 INFO Rotating Log api.py:48 
+2022-11-19 12:55:17.533 INFO Rotating Log api.py:48 
+2022-11-19 12:55:17.533 INFO Rotating Log api.py:48 
